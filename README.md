@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi i'm Diawando DIAWARA a Full Stack Web Developer
 
 <!--
 **diawando/diawando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
