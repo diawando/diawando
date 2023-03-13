@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as Full Stack Web Developer consultant at **Petit Coeur Technologie**
 - ❤️ I’m a passionate Python and JavaScript developper
 - 💡 I’m currently learning all things about those two languages 
-- 🤗 I’ll be happy to collaborate on any project that required skills in Pyhton and  JavaScript, in case to increase my skills and learn from others
+- 🤗 I will gladly collaborate on any project that requires knowledge of Python and JavaScript, in case I increase my skills and learn from others
 - 📫 How to reach me: abduldiawade777@gmail.com
 
 <br><br>
