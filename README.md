@@ -1,4 +1,4 @@
-## 👋 Hello, I’m Diawando DIAWARA.
+##  HELLO, I’m Diawando DIAWARA. 
 
 - 🔭 I’m currently working as Full Stack Web Developer consultant at **Petit Coeur Technologie**
 - ❤️ I’m a passionate Python and JavaScript developper
@@ -7,7 +7,7 @@
 - 📫 How to reach me: abduldiawade777@gmail.com
 
 ### Interests Topics
-💬  `Algorithms`|`Programming`|`Web`|`Database`|`Statistics`|`Machine Learning`|`AI`
+💬  `Algorithms`|`Programming`|`Web`|`Database`|`Statistics`|`Machine Learning`|`AI`|`Data`
 
 ### Skills
 <p>
@@ -23,6 +23,10 @@
   <img src="https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen" />
    <img src="https://img.shields.io/badge/GIT-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
     <img src="https://img.shields.io/badge/EXCEL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
+     <img src="https://img.shields.io/badge/POSTGRESQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-orange" />
+     <img src="https://img.shields.io/badge/API%20REST-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-orange" />
+  <img src="https://img.shields.io/badge/WORDPRESS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow" />
+   <img src="https://img.shields.io/badge/SQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen" />
    
 ### Contact
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joekakone)](https://github.com/joekakone) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/joekakonepage)](https://www.facebook.com/joekakonepage) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-koami-konka/)](https://www.linkedin.com/in/joseph-koami-konka/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/joekakone)](https://www.twitter.com/joekakone) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseph.kakone@gmail.com)](mailto:joseph.kakone@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diawando)](https://github.com/diawando)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diawandodiawara/)](https://www.linkedin.com/in/diawandodiawara/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abduldiawade777@gmail.com)](mailto:abduldiawade777@gmail.com)
