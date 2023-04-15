@@ -19,13 +19,13 @@
   <img src="https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue" />
   <img src="https://img.shields.io/badge/FLASK-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue" />
   <img src="https://img.shields.io/badge/DJANGO-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue" />
- <img src="https://img.shields.io/badge/DOCKER-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen" />
-  <img src="https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen" />
+ <img src="https://img.shields.io/badge/DOCKER-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue" />
+  <img src="https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
    <img src="https://img.shields.io/badge/GIT-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
     <img src="https://img.shields.io/badge/EXCEL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
-     <img src="https://img.shields.io/badge/POSTGRESQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-orange" />
-     <img src="https://img.shields.io/badge/API%20REST-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-orange" />
-  <img src="https://img.shields.io/badge/WORDPRESS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow" />
+     <img src="https://img.shields.io/badge/POSTGRESQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
+     <img src="https://img.shields.io/badge/API%20REST-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen" />
+  <img src="https://img.shields.io/badge/WORDPRESS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen" />
    <img src="https://img.shields.io/badge/SQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen" />
    
 ### Contact
