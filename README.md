@@ -1,8 +1,9 @@
 ##  HELLO, I’m Diawando DIAWARA. 
 
 - 🔭 I’m currently working as Full Stack Web Developer consultant at **Petit Coeur Technologie**
+- 🌐 Also as a Full Stack Developper remotely for **UTPIME AFRICA** and **StartUp World** 
 - ❤️ I’m a passionate Python and JavaScript developper
-- 💡 I’m currently learning all things about those two languages 
+- 💡 I’m currently learning all things about those two languages (web, mobile, desktop)
 - 🤗 I will gladly collaborate on any project that requires knowledge in Python and JavaScript, in case I increase my skills and learn from others
 - 📫 How to reach me: abduldiawade777@gmail.com
 
