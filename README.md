@@ -23,7 +23,7 @@
  <img src="https://img.shields.io/badge/DOCKER-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
   <img src="https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
    <img src="https://img.shields.io/badge/GIT-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
-  <img src="https://img.shields.io/badge/Jenkins-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
+  <img src="https://img.shields.io/badge/JENKINS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
     <img src="https://img.shields.io/badge/EXCEL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
   <img src="https://img.shields.io/badge/RASA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
      <img src="https://img.shields.io/badge/POSTGRESQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
