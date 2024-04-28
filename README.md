@@ -8,7 +8,7 @@
 - 📫 How to reach me: abduldiawade777@gmail.com
 
 ### Interests Topics
-💬  `Algorithms`|`Programming`|`Web`|`Database`|`Statistics`|`Machine Learning`|`AI`|`Data`
+💬  `Algorithms`|`Programming`|`Web`|`Database`|`Statistics`|`Machine Learning`|`AI`|`Data`|`DevOps`|`Cybersecurity`|`Automation`|
 
 ### Skills
 <p>
