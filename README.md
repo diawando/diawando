@@ -4,7 +4,7 @@
 - 🌐 Also as a Full Stack Developper remotely for **UTPIME AFRICA** and **StartUp World** 
 - ❤️ I’m a passionate Python and JavaScript developper
 - 💡 I’m currently learning all things about those two languages (web, mobile, desktop)
-- 🤗 I will gladly collaborate on any project that requires knowledge in Python and JavaScript, in case I increase my skills and learn from others
+- 🤗 I will gladly collaborate on any project that requires knowledge in Python and JavaScript, as it will allow me to improve my skills and learn from others.
 - 📫 How to reach me: abduldiawade777@gmail.com
 
 ### Interests Topics
