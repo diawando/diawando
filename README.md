@@ -1,35 +1,91 @@
-##  HELLO, I’m Diawando DIAWARA. 
+## 👋 Hi, I'm Diawando DIAWARA  
 
-- 🔭 I’m currently working as Tech Lead at **Petit Coeur Technologie**
-- 🌐 Also as a Full Stack Developper remotely for **UTPIME AFRICA** and **StartUp World** 
-- ❤️ I’m a passionate Python and JavaScript developper
-- 💡 I’m currently learning all things about those two languages (web, mobile, desktop)
-- 🤗 I will gladly collaborate on any project that requires knowledge in Python and JavaScript, as it will allow me to improve my skills and learn from others.
-- 📫 How to reach me: abduldiawade777@gmail.com
+🚀 **Tech Lead | Software Architect | AI Systems Builder**  
 
-### Interests Topics
-💬  `Algorithms`|`Programming`|`Web`|`Database`|`Statistics`|`Machine Learning`|`AI`|`Data`|`DevOps`|`Cybersecurity`|`Automation`|
+I design and build **scalable digital systems** and I'm currently transitioning toward  
+**AI-native products, Generative AI, and intelligent automation**.
 
-### Skills
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green" />
-  <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green" />
-  <img src="https://img.shields.io/badge/BOOTSTRAP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue" />
-  <img src="https://img.shields.io/badge/JQUERY-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue" />
-  <img src="https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green" />
-  <img src="https://img.shields.io/badge/FLASK-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue" />
-  <img src="https://img.shields.io/badge/DJANGO-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue" />
- <img src="https://img.shields.io/badge/DOCKER-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
-  <img src="https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
-   <img src="https://img.shields.io/badge/GIT-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
-  <img src="https://img.shields.io/badge/JENKINS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
-    <img src="https://img.shields.io/badge/EXCEL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
-  <img src="https://img.shields.io/badge/RASA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
-     <img src="https://img.shields.io/badge/POSTGRESQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen" />
-     <img src="https://img.shields.io/badge/API%20REST-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen" />
-  <img src="https://img.shields.io/badge/WORDPRESS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen" />
-   <img src="https://img.shields.io/badge/SQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellowgreen" />
-   
-### Contact
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diawando)](https://github.com/diawando)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diawandodiawara/)](https://www.linkedin.com/in/diawandodiawara/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abduldiawade777@gmail.com)](mailto:abduldiawade777@gmail.com)
+---
+
+## 🧠 Current Focus
+
+- 🤖 Building with **Generative AI & LLMs**
+- 🧩 Exploring **AI Agents & automation systems**
+- 🔐 **AI Security & Governance** (responsible AI, risk management, system integrity)
+- ⚙️ Designing **scalable backend architectures** (FastAPI, microservices)
+- 🔁 Creating **automation pipelines for real-world workflows**
+
+---
+
+## 🎯 Ongoing Learning & Research
+
+- 🧠 Generative AI Leadership — Google GEAR  
+- 🔬 AI Research Foundations — DeepMind  
+- 🏢 Organizational Strategy with Generative AI & AI Agents  
+- 🔐 AI Security & Governance (AI risk, compliance, trustworthy systems)
+
+Focus areas:
+- AI for decision-making systems  
+- Human + AI collaboration  
+- Secure & responsible AI systems  
+- Automation as leverage  
+
+---
+
+## 🏗️ Experience & Impact
+
+- 🚀 Tech Lead & Technical Manager at **Petit Cœur Technologie**
+- 📈 Improved backend performance by **100%** and reduced deployment errors by **70%**
+- 👥 Led and mentored engineering teams (Agile, code quality, delivery)
+- 🌍 Delivered platforms for NGOs, public institutions & startups
+- 🤖 Built conversational AI systems (RASA)
+
+---
+
+## 🧩 Tech Stack
+
+**Core:**  
+`Python` `FastAPI` `JavaScript` `System Design`  
+
+**Frontend & Mobile:**  
+`React.js` `React Native`  
+
+**DevOps & Infra:**  
+`Docker` `AWS` `CI/CD` `Linux`  
+
+**Data:**  
+`PostgreSQL` `SQL` `REST APIs`  
+
+**AI (growing):**  
+`RASA` `Machine Learning` `Generative AI` `AI Agents` `AI Security`  
+
+---
+
+## 🧠 How I Think
+
+- Systems > Features  
+- Automation > Repetition  
+- Security & Governance by design  
+- Impact > Activity  
+
+---
+
+## 🤝 Open To
+
+- AI / Generative AI collaborations  
+- Building secure & scalable AI systems  
+- High-impact digital transformation projects  
+
+---
+
+## 🌐 Connect
+
+- GitHub: https://github.com/diawando  
+- LinkedIn: https://www.linkedin.com/in/diawandodiawara/  
+- Email: abduldiawade777@gmail.com  
+
+---
+
+## ⚡ Vision
+
+> "I am transitioning from building software to building secure, intelligent systems powered by AI."
