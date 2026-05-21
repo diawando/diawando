@@ -45,10 +45,10 @@ Focus areas:
 ## 🧩 Tech Stack
 
 **Core:**  
-`Python` `FastAPI` `JavaScript` `System Design`  
+`Python` `Flask` `FastAPI` `JavaScript` `System Design`  
 
 **Frontend & Mobile:**  
-`React.js` `React Native`  
+`JavaScript` `jQuery` `React.js` `React Native`  
 
 **DevOps & Infra:**  
 `Docker` `AWS` `CI/CD` `Linux`  
